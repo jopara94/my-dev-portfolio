@@ -38,7 +38,7 @@
       {
         "school": "General Assembly",
         "degree": "Software Engineering Immersive",
-        "graduated": "November 2019",
+        "graduated": "November 2017",
         "description": ""
       },
       {
@@ -144,6 +144,18 @@
         "category": "My second project from General Assembly. I built it to pay homage to Stack Overflow since I was using it multiple times a day.",
         "image": "hack-overflow.png",
         "url": "http://project-2-hack-overflow.herokuapp.com/"
+      },
+      {
+        "title": "Xoona.com",
+        "category": "I built the landing page for Xoona.com from a UI/UX mockup.",
+        "image": "xoona.png",
+        "url": "http:xoona.com/"
+      },
+      {
+        "title": "Mesh & Mia",
+        "category": "This is a wedding website that I built for my friends when they got married.",
+        "image": "mesh-and-mia.png",
+        "url": "https://relaxed-mirzakhani-5b8a4a.netlify.app/"
       },
       {
         "title": "Medical Countermeasures",
