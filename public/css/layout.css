@@ -346,8 +346,6 @@ ul#nav li.current a {
   background: #fff;
   overflow: hidden;
   position: relative;
-  max-width: 215px;
-  min-height: 136px;
 
   -webkit-transition: all 0.3s ease-in-out;
  -moz-transition: all 0.3s ease-in-out;
